@@ -1,0 +1,19 @@
+# General
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Models and Metadata
+*.pkl
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# OS
+.DS_Store
+Thumbs.db
